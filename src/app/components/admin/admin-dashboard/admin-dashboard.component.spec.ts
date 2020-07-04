@@ -23,3 +23,4 @@ describe('AdminDashboardComponent', () => {
     expect(component).toBeTruthy();
   });
 });
+console.log("hi");
